@@ -1,0 +1,14 @@
+OVERVIEW: HARC - The Harmonia compiler
+
+USAGE:
+  harc [options | file]...
+  harc query [args...]
+
+QUERIES:
+  --help                Display this information
+  --help <topic>        Display information about a particular topic
+  --help-topics         Display a list of help topics
+  --version             Display version information
+
+OPTIONS:
+  --threads <val>       Set the amount of compilation threads

@@ -1,0 +1,10 @@
+#ifndef LIBHARC_CORE_ALGORITHMS_HPP
+#define LIBHARC_CORE_ALGORITHMS_HPP
+
+namespace harc {
+
+
+
+}
+
+#endif //LIBHARC_CORE_ALGORITHMS_HPP
